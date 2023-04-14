@@ -1,0 +1,18 @@
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/satonozomu/.rbenv/versions/3.2.0/bin/ruby -I /Users/satonozomu/.rbenv/versions/3.2.0/lib/ruby/site_ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-i304sl sitelibdir\=./.gem.20230414-9743-i304sl clean
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-i304sl sitelibdir\=./.gem.20230414-9743-i304sl
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-i304sl sitelibdir\=./.gem.20230414-9743-i304sl install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230414-9743-i304sl/skiptrace/internal
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-i304sl sitelibdir\=./.gem.20230414-9743-i304sl clean

@@ -1,0 +1,19 @@
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.2/ext/debug
+/Users/satonozomu/.rbenv/versions/3.2.0/bin/ruby -I /Users/satonozomu/.rbenv/versions/3.2.0/lib/ruby/site_ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-8guf3y sitelibdir\=./.gem.20230414-9743-8guf3y clean
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-8guf3y sitelibdir\=./.gem.20230414-9743-8guf3y
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-8guf3y sitelibdir\=./.gem.20230414-9743-8guf3y install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20230414-9743-8guf3y/debug
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-8guf3y sitelibdir\=./.gem.20230414-9743-8guf3y clean

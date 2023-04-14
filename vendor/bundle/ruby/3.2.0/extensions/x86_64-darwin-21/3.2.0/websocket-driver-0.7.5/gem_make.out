@@ -1,0 +1,18 @@
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/satonozomu/.rbenv/versions/3.2.0/bin/ruby -I /Users/satonozomu/.rbenv/versions/3.2.0/lib/ruby/site_ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-g7x5tz sitelibdir\=./.gem.20230414-9743-g7x5tz clean
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-g7x5tz sitelibdir\=./.gem.20230414-9743-g7x5tz
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-g7x5tz sitelibdir\=./.gem.20230414-9743-g7x5tz install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230414-9743-g7x5tz
+
+current directory: /Users/satonozomu/Desktop/projyect/dev_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230414-9743-g7x5tz sitelibdir\=./.gem.20230414-9743-g7x5tz clean
